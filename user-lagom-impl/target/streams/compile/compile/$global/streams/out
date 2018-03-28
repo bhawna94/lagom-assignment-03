@@ -1,0 +1,5 @@
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/Desktop/ExternalCall/user-lagom-impl/src/main/scala/edu/knoldus/user/impl/UserServiceImpl.scala:14:16: overriding method postUser in trait UserService of type ()com.lightbend.lagom.scaladsl.api.ServiceCall[edu.knoldus.user.api.UserData,scala.collection.mutable.ListBuffer[edu.knoldus.user.api.UserData]];[0m
+[0m[[0m[31merror[0m] [0m[0m method postUser has incompatible type[0m
+[0m[[0m[31merror[0m] [0m[0m  override def postUser(): ServiceCall[UserData, Done] = ServiceCall{[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
